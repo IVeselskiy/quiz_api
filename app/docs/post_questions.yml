@@ -1,0 +1,13 @@
+tags:
+  - questions
+parameters:
+  - in: body
+    name: number of questions
+    schema:
+      $ref: '#/definitions/Requests'
+
+responses:
+  201:
+    description: Questions have been added
+    schema:
+      $ref: '#/definitions/Questions'

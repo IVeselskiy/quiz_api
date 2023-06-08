@@ -1,0 +1,6 @@
+
+tags:
+  - questions
+responses:
+  200:
+    description: All questions deleted.

@@ -1,0 +1,9 @@
+Flask~=2.3.2
+SQLAlchemy~=2.0.15
+requests~=2.25.1
+psycopg2-binary~=2.9.6
+apispec~=6.3.0
+marshmallow~=3.19.0
+apispec-webframeworks~=0.5.2
+flasgger~=0.9.7.1
+Flask-RESTful~=0.3.10

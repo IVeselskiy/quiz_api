@@ -1,0 +1,10 @@
+
+tags:
+  - questions
+responses:
+  200:
+    description: Questions data
+    schema:
+      type: array
+      items:
+      $ref: '#/definitions/Questions'
